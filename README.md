@@ -23,3 +23,8 @@ Demo for the application can be viewed<a href = "https://drive.google.com/file/d
 <video controls>
   <source src="https://github.com/shantanuspark/tensorflowMobilityAid/blob/master/demo%20video.mp4" type="video/mp4">
 </video>
+
+The project was developed by: 
+  Saketh Saxena
+  Akhilesh Jichkar
+  Shantanu Deshmukh 
