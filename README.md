@@ -25,6 +25,6 @@ Demo for the application can be viewed<a href = "https://drive.google.com/file/d
 </video>
 
 The project was developed by: 
-  Saketh Saxena
-  Akhilesh Jichkar
-  Shantanu Deshmukh 
+  Saketh Saxena,
+  Akhilesh Jichkar,
+  Shantanu Deshmukh. 
