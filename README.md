@@ -3,7 +3,7 @@
 ![San Jose State University](https://i.imgur.com/cShW5MA.gif?1)
 ![..](https://i.imgur.com/QIGOoLy.png?1)
 
-A technology driven project developed towards the completion of requirements for CS256
+A technology driven collaborative project developed towards the completion of requirements for CS256
 
 An android application which uses a CNN trained in tensorflow lite to detect obstacles in images captured via the phone's camera and intimates the user about the presence of the obstacle by providing auditory feedback using text-to-speech conversion. 
 
