@@ -18,11 +18,9 @@ Steps to Execute the project:
   8. Select you device when asked for which device to run on
 
 
-Demo for the application can be viewed<a href = "https://drive.google.com/file/d/1Vk5wkUHiQKJ-D9GjSbJgncO0VR-eOMpj/view?usp=sharing" target="_blank"> here</a>
 
-<video controls>
-  <source src="https://github.com/shantanuspark/tensorflowMobilityAid/blob/master/demo%20video.mp4" type="video/mp4">
-</video>
+
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/4q79qvWoYi8)
 
 The project was developed by: 
   Saketh Saxena,
