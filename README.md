@@ -20,7 +20,7 @@ Steps to Execute the project:
 
 
 
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://youtu.be/4q79qvWoYi8)
+[![Watch the Demo](https://youtu.be/4q79qvWoYi8)
 
 The project was developed by: 
   Saketh Saxena,
